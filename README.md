@@ -1,4 +1,3 @@
-````markdown
 # Connect 4 — Terminal Edition
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
@@ -144,4 +143,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 👩‍💻 Author
 
 **Farnaz Zarrabi Shirabad** — [@FarnazZS](https://github.com/FarnazZS)
-````
